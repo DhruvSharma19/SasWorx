@@ -19,18 +19,18 @@ Welcome to SasWorx, a white-labeled multi-tenant software-as-a-service (SAS) pla
 
 ## Features
 
-- ** Agency Dashboard**: Manage agency information, create sub-accounts for clients, and assign role-based permissions.
-- ** Stripe Integration**: Handle payments, subscriptions, and platform fees with Stripe Connect.
-- ** Website/Funnel Builder**: Create and customize websites and funnels with drag-and-drop functionality, custom components, and responsive previews.
-- ** Business Management Tools**: Track leads, manage pipelines, set business goals, and more.
+- **Agency Dashboard**: Manage agency information, create sub-accounts for clients, and assign role-based permissions.
+- **Stripe Integration**: Handle payments, subscriptions, and platform fees with Stripe Connect.
+- **Website/Funnel Builder**: Create and customize websites and funnels with drag-and-drop functionality, custom components, and responsive previews.
+- **Business Management Tools**: Track leads, manage pipelines, set business goals, and more.
 
 ## Technologies Used
 
 ### Frontend Tools
 
-- ** Next.js 14**: A React framework for building server-side rendered and static web applications.
-- ** Tailwind CSS**: A utility-first CSS framework for rapid UI development.
-- ** Radix UI**: A set of accessible and customizable UI components for building modern interfaces.
+- **Next.js 14**: A React framework for building server-side rendered and static web applications.
+- **Tailwind CSS**: A utility-first CSS framework for rapid UI development.
+- **Radix UI**: A set of accessible and customizable UI components for building modern interfaces.
 
 ### Backend Tools
 
